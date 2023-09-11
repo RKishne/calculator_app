@@ -1,3 +1,3 @@
 # calculator-app
-check out the below link once for see that calculator👉
+check out the link once for see that calculator👉
 https://rkcalculatorapp.netlify.app/
