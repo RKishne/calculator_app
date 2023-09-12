@@ -72,3 +72,30 @@ p{
 .button:hover{
     background-color: white;
 }
+@media screen and (max-width: 400px) {
+    .calculator-container{
+        width: 30%;
+        height: 30%;
+    }
+    .box-1{
+        height: 10vh;
+    }
+}
+@media screen and (max-width: 600px) {
+    .calculator-container{
+        width: 80%;
+        height: 80%;
+    }
+    .box-1{
+        height: 20vh;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .calculator-container{
+        width: 60%;
+        height: 60%;
+    }
+    .box-1{
+        height: 20vh;
+    }
+}
